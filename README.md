@@ -6,5 +6,6 @@ Package of simple C++ projects developed during codecademy course (https://www.c
 * **Magic 8 Ball** - implementation of popular fortune-telling toy. Ask a question and see what happens (*magic_8_ball.cpp*)
 * **Hogwarts Sorting Hat** - answer the questions to determine which of the four school Houses you belongs most to (*sorting_hat.cpp*)
 * **Rock, Paper, Scissors** - play the popular game with your computer (*rock_paper_scissors.cpp*)
+* **FizzBuzz** - popular coding interview chellange (more details in file comments) (*fizzbuzz.cpp*)
 
 **Remember to compile the files before running!**
