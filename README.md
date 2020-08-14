@@ -7,5 +7,6 @@ Package of simple C++ projects developed during codecademy course (https://www.c
 * **Hogwarts Sorting Hat** - answer the questions to determine which of the four school Houses you belongs most to (*sorting_hat.cpp*)
 * **Rock, Paper, Scissors** - play the popular game with your computer (*rock_paper_scissors.cpp*)
 * **FizzBuzz** - popular coding interview chellange (more details in file comments) (*fizzbuzz.cpp*)
+* **Sum and product of vector** - returns sum of even and product of odd numbers in vector (*sum_product_vector.cpp*)
 
 **Remember to compile the files before running!**
