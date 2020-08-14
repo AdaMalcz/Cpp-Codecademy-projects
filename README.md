@@ -5,5 +5,6 @@ Package of simple C++ projects developed during codecademy course (https://www.c
 * **South America currencies converter** - convert Pesos, Reais and Soles to US Dollars (*currenices.cpp*)
 * **Magic 8 Ball** - implementation of popular fortune-telling toy. Ask a question and see what happens (*magic_8_ball.cpp*)
 * **Hogwarts Sorting Hat** - answer the questions to determine which of the four school Houses you belongs most to (*sorting_hat.cpp*)
+* **Rock, Paper, Scissors** - play the popular game with your computer (*rock_paper_scissors.cpp*)
 
 **Remember to compile the files before running!**
