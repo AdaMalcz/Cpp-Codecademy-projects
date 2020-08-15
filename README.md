@@ -10,5 +10,6 @@ Package of simple C++ projects developed during codecademy course (https://www.c
 * **Sum and product of vector** - returns sum of even and product of odd numbers in vector (*sum_product_vector.cpp*)
 * **English to whale language converter** - translates english sentences to the whale language, based on specific rules (*whale.cpp*)
 * **Palindrome checker** - cheks if user given word is the same backwards as it is forwards (*palindrome.cpp*)
+* **UFO Hangman game** - hangman-like console game (*UFO_Hangman*)
 
 **Remember to compile the files before running!**
