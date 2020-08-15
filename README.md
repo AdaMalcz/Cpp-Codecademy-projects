@@ -11,5 +11,6 @@ Package of simple C++ projects developed during codecademy course (https://www.c
 * **English to whale language converter** - translates english sentences to the whale language, based on specific rules (*whale.cpp*)
 * **Palindrome checker** - cheks if user given word is the same backwards as it is forwards (*palindrome.cpp*)
 * **UFO Hangman game** - hangman-like console game (*UFO_Hangman*)
+* **Dating portal profile class** - class-based implementation of dating portal user profile (*dating_portal*) 
 
 **Remember to compile the files before running!**
