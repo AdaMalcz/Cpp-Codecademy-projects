@@ -12,5 +12,6 @@ Package of simple C++ projects developed during codecademy course (https://www.c
 * **Palindrome checker** - cheks if user given word is the same backwards as it is forwards (*palindrome.cpp*)
 * **UFO Hangman game** - hangman-like console game (*UFO_Hangman*)
 * **Dating portal profile** - class-based implementation of dating portal user profile (*dating_portal*) 
+* **Censorship tool** - converting text to censored one, use of references (*censorship.cpp*)
 
 **Remember to compile the files before running!**
