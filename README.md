@@ -15,3 +15,4 @@ Package of simple C++ projects developed during codecademy course (https://www.c
 * **Censorship tool** - converting text to censored one, use of references (*censorship.cpp*)
 
 **Remember to compile the files before running!**
+test
